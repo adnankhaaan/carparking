@@ -5,8 +5,7 @@ this package contains a simple rule based parking with an ego vehicle
 
 cd ~/<catkin_ws>/src
 ```cd ~/<catkin_ws>/src```
-git clone https://github.com/vignif/carla_parking.git
-```git clone https://github.com/vignif/carla_parking.git```
+
 cd ..
 ```cd ..```
 catkin_make
